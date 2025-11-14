@@ -15,4 +15,6 @@ The download lists below features the version of Soverts suitable for Chrome Ext
 
 Capable of: Immediate AI Prompt (Lock Prompt - Send Screenshots), Youtube Converter
 
+- Soverts 1.1 [Sovert1.1.zip](https://github.com/user-attachments/files/23537784/Sovert1.1.zip)
+(New Features: Toggle On / Off tools, model selector (Upcoming: DeepseekAI))
 - Soverts 1.0 [Sovert.zip](https://github.com/user-attachments/files/23502127/Sovert.zip) (Immediate AI Response - Only)
