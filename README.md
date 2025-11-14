@@ -1,4 +1,4 @@
-# Get the latests of Version of Soverts #
+# Get the latests Soverts #
 **A personalized-tool, helping out most Internet-Daily activities**
 
 Soverts exist for variety of media: Browser Extension, Android Application, and so much on.
