@@ -1,9 +1,9 @@
-# Get the latests Soverts #
+# Get the latests of Sovert #
 **A personalized-tool, helping out most Internet-Daily activities**
 
 Soverts exist for variety of media: Browser Extension, Android Application, and so much on.
 
-
+  ![touhou-what-is-love](https://github.com/user-attachments/assets/a095c29d-d34a-414d-afb7-3740fc69d53b)
 
 *NOTE: Official Sovert Page does only exist within github, and not going to be responsible if you are having issues because of getting our copy from anonymous sites*
 
@@ -12,9 +12,26 @@ Soverts exist for variety of media: Browser Extension, Android Application, and 
 # Chrome Extension: # 
 
 The download lists below features the version of Soverts suitable for Chrome Extension.
+~~~
+SECURITY DETAILS:
+- security1 : HTML Injection-based tactic; avoid being detected unfocusing the tab while secretly installing AI Panel in the tab (May be revoked due to Sokrates's Unknown security update)
+~~~
 
-Capable of: Immediate AI Prompt (Lock Prompt - Send Screenshots), Youtube Converter
+- Sovert 1.2-security1 (New DeepSeek model via Openrouter, New Manual Prompting Mode)
 
-- Soverts 1.1 [Sovert1.1.zip](https://github.com/user-attachments/files/23537784/Sovert1.1.zip)
-(New Features: Toggle On / Off tools, model selector (Upcoming: DeepseekAI))
-- Soverts 1.0 [Sovert.zip](https://github.com/user-attachments/files/23502127/Sovert.zip) (Immediate AI Response - Only)
+
+  Indonesian: [Sovert1.2-id.zip](https://github.com/user-attachments/files/23623528/Sovert1.2-id.zip) |
+English: [Sovert1.2-eng.zip](https://github.com/user-attachments/files/23623258/Sovert1.2-eng.zip) 
+- Sovert 1.1-security1 (New Features: Toggle On / Off tools, model selector (Upcoming: DeepseekAI))
+
+
+
+  [Sovert1.1.zip](https://github.com/user-attachments/files/23537784/Sovert1.1.zip)
+
+- Sovert 1.0-security1  (Immediate AI Response - Only)
+
+  [Sovert.zip](https://github.com/user-attachments/files/23502127/Sovert.zip)
+
+  
+
+
