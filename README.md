@@ -19,7 +19,7 @@ SECURITY DETAILS:
 
 - Sovert 1.3-security1 (New temporal-off switch feature)
 
-English: [Sovert1.3-eng.zip](https://github.com/user-attachments/files/23937986/Sovert1.3-eng.zip)
+  English: [Sovert1.3-eng.zip](https://github.com/user-attachments/files/23937986/Sovert1.3-eng.zip)
 
 
 - Sovert 1.2-security1 (New DeepSeek model via Openrouter, New Manual Prompting Mode)
